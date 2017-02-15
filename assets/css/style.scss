@@ -6,6 +6,29 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 @import url(http://fonts.googleapis.com/css?family=Lato);
 
+.footer-social-icons {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
+}
+
+.social-icon {
+        color: #696969;
+}
+
+ul.social-icons {
+    margin-top: 10px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .fa-twitter {
     padding:10px 12px;
     -o-transition:.5s;
